@@ -1,0 +1,15 @@
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\bin\Debug\net6.0\MOOK.exe
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\bin\Debug\net6.0\MOOK.deps.json
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\bin\Debug\net6.0\MOOK.runtimeconfig.json
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\bin\Debug\net6.0\MOOK.dll
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\bin\Debug\net6.0\MOOK.pdb
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\MOOK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\MOOK.AssemblyInfoInputs.cache
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\MOOK.AssemblyInfo.cs
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\MOOK.csproj.CoreCompileInputs.cache
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\MOOK.sourcelink.json
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\MOOK.dll
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\refint\MOOK.dll
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\MOOK.pdb
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\MOOK.genruntimeconfig.cache
+C:\Users\aghte\Source\Repos\CapstoneRetest\MOOK\obj\Debug\net6.0\ref\MOOK.dll
